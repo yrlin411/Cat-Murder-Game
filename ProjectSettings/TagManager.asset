@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - MouseHole
+  - Wall
+  - CatJumpPoint
   layers:
   - Default
   - TransparentFX
@@ -11,8 +14,8 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
+  - Cat
+  - Mouse
   - 
   - 
   - 
@@ -40,4 +43,10 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2561665451
+    locked: 0
+  - name: Foreground
+    uniqueID: 2472048945
     locked: 0

@@ -1216,6 +1216,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hitForce: 100
+  hitCooldown: 1
 --- !u!1001 &2638336308147760375
 PrefabInstance:
   m_ObjectHideFlags: 0
